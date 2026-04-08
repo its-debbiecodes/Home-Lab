@@ -31,14 +31,7 @@ And just like that — it worked.
 
 I was staring at a full desktop… inside my actual computer.
 
-Honestly? That felt unreal.
-
 Had to stop there for today, but I already know this is where the real learning starts — breaking things and figuring out how to fix them.
 
 **Conclusion:**
 Sometimes progress looks like messing everything up… then figuring out how to recover.
-
-So now I’m curious:
-**Have you ever built a home lab, or broken something in tech and somehow fixed it?**
-
-#ITSupport #HomeLab #TechJourney
